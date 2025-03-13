@@ -1,24 +1,24 @@
-# 🚀 Multi-Step Form with Animations
+# Multi-Step Form with Animations
 
 This is a **multi-step form** with smooth animations, form validation, and a modern UI built using **HTML, CSS, and JavaScript**.
 
-## 🌟 Features
-- ✅ Multi-step navigation (**Next/Back buttons**)
-- 🎨 Smooth animations using [Animate.css](https://animate.style/)
-- 🔍 Form validation for required fields
-- 📱 Responsive design (**Mobile & Desktop**)
-- 🔄 Summary preview before form submission
+## Features
+- Multi-step navigation (**Next/Back buttons**)
+- Smooth animations using [Animate.css](https://animate.style/)
+- Form validation for required fields
+- Responsive design (**Mobile & Desktop**)
+- Summary preview before form submission
 
-## 📂 Project Setup
+## Project Setup
 
-### 👉 **Option 1: Open Directly**
+### Option 1: Open Directly
 1. Download or **clone** the repository:
    ```sh
    git clone https://github.com/Saranya-max-ux/Form.git
    ```
 2. Open the `Form.html` file in a **web browser** (Chrome, Edge, or Firefox).
 
-### 👉 **Option 2: Run Locally**
+### Option 2: Run Locally
 1. Install **Live Server** extension in VS Code:
    ```sh
    code --install-extension ritwickdey.LiveServer
@@ -26,16 +26,13 @@ This is a **multi-step form** with smooth animations, form validation, and a mod
 2. Open the project folder in **VS Code**.
 3. Right-click `Form.html` and select **"Open with Live Server"**.
 
-## 📸 Screenshots
-_Add a screenshot of your form here if needed._
+## Technologies Used
+- **HTML** – Page structure
+- **CSS** – Styling & animations
+- **JavaScript** – Form validation & logic
+- **Animate.css** – Smooth animations
 
-## 🛠️ Technologies Used
-- 🏗️ **HTML** – Page structure
-- 🎨 **CSS** – Styling & animations
-- ⚡ **JavaScript** – Form validation & logic
-- ✨ **Animate.css** – Smooth animations
-
-## 🛠️ How to Contribute
+## How to Contribute
 Want to contribute? Follow these steps:
 
 1. **Fork** this repository.
@@ -61,23 +58,21 @@ Want to contribute? Follow these steps:
    ```
 6. Open a **Pull Request (PR)** on GitHub.
 
-## 📌 License
+## License
 This project is licensed under the **MIT License**.
 
 ---
-👩‍💻 Developed by **[Saranya-max-ux](https://github.com/Saranya-max-ux)**  
+Developed by **[Saranya-max-ux](https://github.com/Saranya-max-ux)**
 ```
 
 ---
 
 ### **✅ Final Steps**
-- Save the **README.md** file and commit the changes:
-  ```sh
-  git add README.md
-  git commit -m "Updated README with markdown formatting"
-  git push origin main
-  ```
+1. Save the **README.md** file.  
+2. Commit and push the changes:
+   ```sh
+   git add README.md
+   git commit -m "Updated README (removed emojis)"
+   git push origin main
+   ```
 
-- Now, your GitHub repository will have a well-structured **README** file! 🚀🔥  
-
-Let me know if you need any modifications! 😊
