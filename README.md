@@ -1,26 +1,3 @@
-Here’s how you can write your **README.md** in proper **Git markdown format** for GitHub:  
-
----
-
-### **📌 How to Edit README in Git**  
-1️⃣ Open **VS Code** and go to your project folder (`Form`).  
-2️⃣ Open the terminal (`Ctrl + ~`) and run:  
-   ```sh
-   nano README.md
-   ```
-3️⃣ Copy and paste the following markdown content into your **README.md** file.  
-4️⃣ **Press `Ctrl + X` → `Y` → `Enter`** to save the file.  
-5️⃣ Run the following to add, commit, and push the changes:  
-   ```sh
-   git add README.md
-   git commit -m "Updated README.md"
-   git push origin main
-   ```
-
----
-
-### **📄 Full README.md in Git Markdown Format**
-```md
 # 🚀 Multi-Step Form with Animations
 
 This is a **multi-step form** with smooth animations, form validation, and a modern UI built using **HTML, CSS, and JavaScript**.
